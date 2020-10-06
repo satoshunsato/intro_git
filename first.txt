@@ -5,7 +5,7 @@ gitの練習をしていきます。
 git add 
 git commit 
 git rm　で削除したファイルをステージングエリアに乗せて、リポジトリにcommitする方法を学習しました。
-
+git status
 これらのコマンドを学習しました。
 
 
